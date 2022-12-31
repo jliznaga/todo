@@ -1,0 +1,3 @@
+{
+    "files": ["repositories/__init__.py","models/__init__.py","assets.qrc","repositories/sqlite.py","form.ui","mainwindow.py","models/task.py","services/__init__.py","services/tasks_service.py","qtask.py"]
+}
